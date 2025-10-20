@@ -2,7 +2,7 @@ Flask
 flask-cors
 gunicorn
 opencv-python-headless
-mediapipe-silicon
+mediapipe
 numpy
 Pillow
 werkzeug
